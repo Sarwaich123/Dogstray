@@ -1,0 +1,125 @@
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.Development.json
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.json
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.exe
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.deps.json
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.runtimeconfig.json
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.dll
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.pdb
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.AssemblyReference.cache
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.GeneratedMSBuildEditorConfig.editorconfig
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfoInputs.cache
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfo.cs
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CoreCompileInputs.cache
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.MvcApplicationPartsAssemblyInfo.cache
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.Dogstray.Microsoft.AspNetCore.StaticWebAssets.props
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.build.Dogstray.props
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dogstray.props
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dogstray.props
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.pack.json
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.build.json
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.development.json
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\scopedcss\bundle\Dogstray.styles.css
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.dll
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\refint\Dogstray.dll
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.pdb
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.genruntimeconfig.cache
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\ref\Dogstray.dll
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\m4rcus.TuyaCore.dll
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CopyComplete
+W:\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\TuyaNet.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.exe
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.deps.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.runtimeconfig.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.pdb
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\m4rcus.TuyaCore.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\bin\Debug\net6.0\TuyaNet.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.AssemblyReference.cache
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfoInputs.cache
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfo.cs
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CoreCompileInputs.cache
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.Dogstray.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.build.Dogstray.props
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dogstray.props
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dogstray.props
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\scopedcss\bundle\Dogstray.styles.css
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CopyComplete
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\refint\Dogstray.dll
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.pdb
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.genruntimeconfig.cache
+C:\Users\SARWAICH\Desktop\Dogstray\Dogstray\obj\Debug\net6.0\ref\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.exe
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.deps.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.runtimeconfig.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.pdb
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\m4rcus.TuyaCore.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\bin\Debug\net6.0\TuyaNet.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.AssemblyReference.cache
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfoInputs.cache
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfo.cs
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CoreCompileInputs.cache
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.Dogstray.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.build.Dogstray.props
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dogstray.props
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dogstray.props
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\scopedcss\bundle\Dogstray.styles.css
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CopyComplete
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\refint\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.pdb
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.genruntimeconfig.cache
+D:\Personal\My Projects\My-Projects\Dogtray\Dogstray\Dogstray\obj\Debug\net6.0\ref\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\appsettings.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.exe
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.deps.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.runtimeconfig.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Dogstray.pdb
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\m4rcus.TuyaCore.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\bin\Debug\net6.0\TuyaNet.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.AssemblyReference.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfoInputs.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.AssemblyInfo.cs
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CoreCompileInputs.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.Dogstray.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.build.Dogstray.props
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dogstray.props
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dogstray.props
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\scopedcss\bundle\Dogstray.styles.css
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.csproj.CopyComplete
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\refint\Dogstray.dll
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.pdb
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\Dogstray.genruntimeconfig.cache
+D:\Personal\My Projects\My-Projects\Freelance Career\Git Collection\Dogstray\Dogstray\obj\Debug\net6.0\ref\Dogstray.dll

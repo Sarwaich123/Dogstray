@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCrTF4lo4JqiwI1ibHiSsV1rMC4psAvgxWw9Ot4L9m8d1hK6lHEctFeAZ4j3QTTO3fgLMfUpLh8Una5pKKLWQg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\My Projects\\My-Projects\\Freelance Career\\Git Collection\\Dogstray\\Dogstray\\Dogstray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\m4rcus.tuyacore\\1.0.1\\m4rcus.tuyacore.1.0.1.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sarwaich Raza\\.nuget\\packages\\tuyanet\\1.0.3\\tuyanet.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
